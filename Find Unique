@@ -6,4 +6,5 @@ int findUnique(int *arr, int size)
         temp^=arr[i];   
     }
     return temp;
+
 }
